@@ -1,0 +1,10 @@
+  streamlit
+  python-dotenv
+  pymupdf
+  chromadb
+  sentence-transformers
+  langchain-core
+  langchain-groq
+  langchain-chroma
+  langchain-huggingface
+  langchain-text-splitters
